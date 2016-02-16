@@ -1,0 +1,9 @@
+name: ChromSound
+main: info.civiliancraft.ChromaSound.Main
+version: 0.01a
+author: LegoPal92
+commands:
+  chsound:
+    description: The base command for ChromaSound
+    usage: /chsound
+    
